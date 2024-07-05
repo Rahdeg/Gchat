@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357995453311",
+    "project_id": "travelad-364716",
+    "storage_bucket": "travelad-364716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357995453311:android:d8e60b1f3cfdec2d65184a",
+        "android_client_info": {
+          "package_name": "gchat_24.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357995453311-tm47pidni3fbb9clcjf90f46udiifepd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBucvnHfYP0c56hLKM_1vN6-fraUiIqqR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357995453311-tm47pidni3fbb9clcjf90f46udiifepd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
